@@ -1,0 +1,1 @@
+"""ASCII Monster Roguelike package."""
